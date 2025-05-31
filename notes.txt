@@ -1,0 +1,56 @@
+
+1. Inline (Event)
+2. Internal
+3. Externel
+
+
+===========Internal==========
+
+<script>
+
+</script>
+
+
+
+
+=============Variable================
+
+
+
+x = 200;
+y = 210;
+
+
+
+Rahim has 200tk and Karim has 300tk
+
+rahim = 200;
+karim = 300;
+
+Types of declaring Variable......
+
+General Method...
+
+x = 20;
+rahim = 34;
+
+using var....
+
+var x = 20;
+var y = 30;
+
+using let...
+
+let x = 20;
+let y = 30;
+
+using const...
+
+const x = 20;
+const y = 30;
+
+Rahim has 200tk and Karim has 300tk. Find the amount of total money?
+
+
+ES5=>var
+ES6=>let
