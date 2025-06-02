@@ -54,3 +54,25 @@ Rahim has 200tk and Karim has 300tk. Find the amount of total money?
 
 ES5=>var
 ES6=>let
+
+=====Rules of writing Variable==========
+
+Any Alphabets (a, b, z, A, B)
+Any Words (sdusdh, apple, rahim, total_Price, grandTotal, number1)
+
+===========Operator==========
+
+1. Arithmatic Operator (+, -, *, /)
+
+Rahim has 1000tk. He went to market and purchased 5 eggs, 2 kitkat chocolate. 
+Price of each eggs 11tk, price of each chocolates 40tk. Find the remaining money.
+
+totalMoney = 1000tk
+eggs = 5pcs
+chocolate = 2pcs
+eachEggs = 11tk
+eachChocolate = 40tk
+
+remaining = ?
+
+Remainig Money = 865;
